@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Edoardo
 
 <!--
 **endorama/endorama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://endorama.dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=endorama&show_icons=true&theme=default&hide_rank=true&count_private=true" />
+</a>
+<!--<a href="https://endorama.dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endorama&layout=compact" />
+</a>-->
