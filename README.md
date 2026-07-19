@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 I am a software engineer and system administrator with a focus on backend, DevOps and Site Reliability Engineering practices. I'm also a maker, with a focus on phisical prototying and bridging the web with phisical items.
 
-Currently working at [Elastic](https://www.elastic.co/), the Search, Observe and Protect company.
-
 I blog on software engineering, leadership and other topics at [endorama.dev](https://endorama.dev)
 
 <a href="https://endorama.dev">
